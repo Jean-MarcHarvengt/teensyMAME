@@ -1173,7 +1173,22 @@ const struct GameDriver *drivers[] =
   &mpatrolw_driver, /* (c) 1982 + Williams license */
   &mranger_driver,  /* bootleg */
 
-  
+    /* Taito SJ System games */
+  &spaceskr_driver, /* (c) 1981 */
+  &junglek_driver,  /* (c) 1982 */
+  &jhunt_driver,    /* (c) 1982 Taito America */
+
+  &alpine_driver,   /* (c) 1982 */
+  &alpinea_driver,  /* (c) 1982 */
+  &timetunl_driver, /* (c) 1982 */
+  &wwestern_driver, /* (c) 1982 */
+  &frontlin_driver, /* (c) 1982 */
+  &elevator_driver, /* (c) 1983 */
+  &elevatob_driver, /* bootleg */
+  &tinstar_driver,  /* (c) 1983 */
+  &waterski_driver, /* (c) 1983 */
+  &bioatack_driver, /* (c) 1983 + Fox Video Games license */
+  &sfposeid_driver, /* (c) 1984 */  
 #ifdef CLASSIC
   &circusc_driver,  /* GX380 (c) 1984 */
   &circusc2_driver, /* GX380 (c) 1984 */
@@ -1472,21 +1487,8 @@ Six Flags (?)
 	&kram_driver,		/* (c) 1982 Taito America */
 	&kram2_driver,		/* (c) 1982 Taito America */
 
-	/* Taito SJ System games */
-	&spaceskr_driver,	/* (c) 1981 */
-	&junglek_driver,	/* (c) 1982 */
-	&jhunt_driver,		/* (c) 1982 Taito America */
-	&alpine_driver,		/* (c) 1982 */
-	&alpinea_driver,	/* (c) 1982 */
-	&timetunl_driver,	/* (c) 1982 */
-	&wwestern_driver,	/* (c) 1982 */
-	&frontlin_driver,	/* (c) 1982 */
-	&elevator_driver,	/* (c) 1983 */
-	&elevatob_driver,	/* bootleg */
-	&tinstar_driver,	/* (c) 1983 */
-	&waterski_driver,	/* (c) 1983 */
-	&bioatack_driver,	/* (c) 1983 + Fox Video Games license */
-	&sfposeid_driver,	/* (c) 1984 */
+
+
 
 	/* other Taito games */
 	&bking2_driver,		/* (c) 1983 */

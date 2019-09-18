@@ -566,7 +566,7 @@ void emu_printi(int val)
 }
 
 static int malbufpt = 0;
-static char malbuf[0x24000];
+static char malbuf[EXTRA_HEAP];
 
 void * emu_Malloc(int size)
 {

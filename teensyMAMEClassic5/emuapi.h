@@ -8,6 +8,8 @@
 //#define HAS_I2CKBD  1
 //#define TIMER_REND  1
 
+#define EXTRA_HEAP  0x16000
+
 // Title:     <                                        >
 #define TITLE "             MAME Emulator              "
 #define ROMSDIR "/mame"

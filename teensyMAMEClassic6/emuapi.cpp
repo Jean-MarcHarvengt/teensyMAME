@@ -7,8 +7,8 @@ extern "C" {
 
 #include "tft_t_dma.h"
 //#include "logo.h"
-//include "bmpjoy.h"
-//include "bmpvbar.h"
+//#include "bmpjoy.h"
+//#include "bmpvbar.h"
 //#include "bmpvga.h"
 //#include "bmptft.h"
 
@@ -566,7 +566,7 @@ void emu_printi(int val)
 }
 
 static int malbufpt = 0;
-static char malbuf[0x10000];
+static char malbuf[EXTRA_HEAP];
 
 void * emu_Malloc(int size)
 {

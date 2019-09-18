@@ -11,7 +11,7 @@
 #include "driver.h"
 
 //#define USE_Z80_GP 1
-#define USE_I8039_GP 1
+//#define USE_I8039_GP 1
 //#define USE_I8085_GP 1
 //#define USE_I86_GP 1
 //#define USE_M6502_GP 1
