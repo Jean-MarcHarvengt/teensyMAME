@@ -10,9 +10,9 @@ M.A.M.E = Multi Arcade Machine Emulator
 
 
 # Featuring
-Emulation of various Arcade systems (1978-1985) from Space Invaders to Moon Patrol<br>
-The emulator is splitted in few projects runnin specific systems due to memory usage.<br>
-(complete list of roms emulated in games.txt)<br> 
+Emulation of various Arcade systems (1978-1985) from Space Invaders to Moon Patrol.<br>
+The emulator is splitted in few projects running specific systems due to memory usage.<br>
+(see complete list of roms emulated in games.txt)<br> 
 Please compile for smallest code on the Teensy4.0 else you will run out of memory<br><br>
 
 # Minimal requirements:
@@ -23,8 +23,8 @@ Please compile for smallest code on the Teensy4.0 else you will run out of memor
 - 3 buttons (FIRE, USER1 and USER2)
 
 # Optional requirements:
-- I2C custom keyboard (Not required for MAME)
-- Sound (MQS for Teensy4.0)
+- I2C custom keyboard (not required for MAME)
+- Sound (MQS only, to be added)
 
 # Wiring
 - see pinout.txt file in the project
