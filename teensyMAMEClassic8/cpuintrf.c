@@ -17,7 +17,7 @@
 //#define USE_M6502_GP 1
 //#define USE_M6809_GP 1
 #define USE_M6808_GP 1
-//#define USE_M6805_GP 1
+#define USE_M6805_GP 1
 
 
 #ifdef USE_Z80_GP

@@ -559,10 +559,10 @@ int osd_key_pressed(int keycode)
     case OSD_KEY_RIGHT:
       if (( k & MASK_JOY1_RIGHT) || ( k & MASK_JOY2_RIGHT)) retval = 1;
       break;
-    case OSD_KEY_ALT:
+    case OSD_KEY_LCONTROL:
       if ( k & MASK_JOY2_BTN) retval = 1;
       break;
-    case OSD_KEY_LCONTROL:
+    case OSD_KEY_ALT:
       if ( k & MASK_KEY_USER3) retval = 1;
       break;
   }
