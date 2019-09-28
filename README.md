@@ -9,8 +9,8 @@ M.A.M.E = Multi Arcade Machine Emulator
 </p>
 
 Watch the videos on YouTube:<br>
-https://youtu.be/q_BFhx5OfPc
-https://youtu.be/MSNT9EDy8uM
+https://youtu.be/q_BFhx5OfPc<br>
+https://youtu.be/MSNT9EDy8uM<br>
 
 
 # Featuring
