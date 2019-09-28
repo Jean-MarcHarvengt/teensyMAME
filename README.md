@@ -5,7 +5,9 @@ M.A.M.E = Multi Arcade Machine Emulator
 # News
 
 <p align="center">
-<img src="/images/pcb.png" width=200 />  
+<img src="/images/pcb.png" width=300 />  
+</p>
+<p align="center">
 <img src="/images/teensy4SD.png" width=200 />  
 </p>
 
