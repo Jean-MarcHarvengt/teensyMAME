@@ -13,6 +13,7 @@ M.A.M.E = Multi Arcade Machine Emulator
 Emulation of various Arcade systems (1978-1985) from Space Invaders to Moon Patrol.<br>
 The emulator is splitted in few projects running specific systems due to memory usage.<br>
 (see complete list of roms emulated in games.txt)<br> 
+It is based on the early MAME0.36 source code <br>
 Please compile for smallest code on the Teensy4.0 else you will run out of memory<br><br>
 
 # Minimal requirements:
@@ -38,6 +39,7 @@ Please compile for smallest code on the Teensy4.0 else you will run out of memor
 # Installation
 - Format the SD card as FAT32
 - copy the roms into a folder called "mame"
+- I don't provide information about where to find the roms but just be aware you will need a romset compatible with mame 0.36. 
 - MAME roms should be uncompressed (sub-dir with rom name with roms inside)
 - insert the card into the SD slot
 
