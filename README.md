@@ -8,7 +8,9 @@ M.A.M.E = Multi Arcade Machine Emulator
 <img src="/images/teensy4SD.png" width="200" />  
 </p>
 
+Watch the videos on YouTube:<br>
 https://youtu.be/q_BFhx5OfPc
+https://youtu.be/MSNT9EDy8uM
 
 
 # Featuring
