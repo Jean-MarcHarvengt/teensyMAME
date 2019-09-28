@@ -5,13 +5,11 @@ M.A.M.E = Multi Arcade Machine Emulator
 # News
 
 <p align="center">
-<img src="/images/pcb.jpg" />  
-<img src="/images/teensy4SD.png" />  
+<img src="/images/pcb.png" widh=200 />  
+<img src="/images/teensy4SD.png" widh=200 />  
 </p>
 
-<p align="center">
-<img src="/images/moonpatrol.jpg" />  
-</p>
+
 
 Watch the videos on YouTube:<br>
 https://youtu.be/q_BFhx5OfPc<br>
